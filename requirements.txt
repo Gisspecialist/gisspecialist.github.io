@@ -1,6 +1,7 @@
-import pandas as pd
-import plotly.express as px
-import dash
-from dash import dcc, html
-from dash.dependencies import Input, Output
-import random
+pandas
+plotly.express as px
+dash
+dcc, html
+dash.dependencies 
+Input, Output
+random
