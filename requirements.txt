@@ -1,4 +1,3 @@
-python
 dash
 dash.dependencies
 pandas
