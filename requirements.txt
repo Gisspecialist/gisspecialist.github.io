@@ -1,8 +1,4 @@
 pandas
 plotly.express
 dash
-dcc
-html
-Input
-Output
 random
