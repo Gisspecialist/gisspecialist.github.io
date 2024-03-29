@@ -1,7 +1,9 @@
 pandas
-plotly.express as px
+plotly.express
 dash
-dcc, html
+dcc
+html
 dash.dependencies 
-Input, Output
+Input
+Output
 random
