@@ -1,2 +1,7 @@
 python
 dash
+dash.dependencies
+pandas
+plotly
+plotly.express
+random
